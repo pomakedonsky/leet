@@ -1,4 +1,3 @@
 # leetcode patterns
 
-1. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
-2. Missing Number https://leetcode.com/problems/missing-number/
+Patterns from: https://seanprashad.com/leetcode-patterns/
